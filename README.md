@@ -34,6 +34,6 @@ Here you should give a general idea of what a user will need in order to use you
 | satisfaction                        | 滿意度                    | Category | neutral or dissatisfied: 中立或不滿意；satisfied: 滿意 |
 
 ## 二、資料集前處理
-資料集描述性資料及處理詳細過程請看： [資料前處理](../Data_preprocessing.ipynb)
+資料集描述性資料及處理詳細過程請看： [資料前處理](Data_preprocessing.ipynb)
 
 ## 三、ML演算法比較
