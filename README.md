@@ -1,12 +1,10 @@
 # Airline_Passenger_satisfaction
 使用機器學習演算法分析某航空乘客滿意度
 
-## 資料集概述
-
+## 一、資料集概述
 Here you should give a general idea of what a user will need in order to use your library or application. List requirements and then link to another resource with detailed installation or setup instructions.
 
 - 原始資料集 [airline_passenger_satisfaction](https://www.kaggle.com/datasets/ahmedelsharkaw/airline-passenger-satisfaction)
-
 
 
 | Variable                           | Definition                 | Dtype    | Key                                                 |
@@ -34,3 +32,8 @@ Here you should give a general idea of what a user will need in order to use you
 | departure_delay_in_minutes          | 出發延遲分鐘數            | Numeric  |                                                    |
 | arrival_delay_in_minutes            | 抵達延遲分鐘數            | Numeric  |                                                    |
 | satisfaction                        | 滿意度                    | Category | neutral or dissatisfied: 中立或不滿意；satisfied: 滿意 |
+
+## 二、資料集前處理
+資料集描述性資料及處理詳細過程請看： [資料前處理](../Data_preprocessing.ipynb)
+
+## 三、ML演算法比較
